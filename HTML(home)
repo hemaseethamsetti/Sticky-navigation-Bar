@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sticky Navigation Bar</title>
+    <link rel="stylesheet" type="text/css" href="navbar.css">
+</head>
+<body>
+    <nav id="navbar">
+        <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="about.html"><ins>About</ins></a></li>
+            <li><a href="departments.html"><ins>Departments</ins></a></li>
+            <li><a href="placements.html"><ins>Placements</ins></a></li> 
+        </ul>
+    </nav>
+    <center><img src="sasi.jpg" width="700" height="200"></center>
+    <h1><center><b><ins>sasi institute of technology and engineering</ins></b></center></h1>
+    <h3><i>Institute profile</i></h3>
+    <p>
+        Sasi Institute of Technology & Engineering (SITE) is not just one more engineering college.
+        It's a college with a difference. It has made its presence felt more with its academic discipline, results and the achievement of its students.
+        Though started a few years back i.e. in 2002, it has set to compete with the best in the state.<br>
+        Providing the best education in engineering and technology and following the systems that SASI has developed over two decades,
+        it has made its mark already in the minds of millions. The campus is located amid lush green fields in the spacious area of 28 acres offers world class facilities.
+        It is well connected to rail and road transport. Hundreds of students throng every morning from nearby villages to the portals of Sasi to realize their dreams.
+        It has become the first choice for any company that wants to recruit the best students with strong technical and soft skills.<br>
+        Naturally, it is the best choice for many parents who want to keep their wards in the safest and best academic environment.
+        Treated the best in coastal belt of Andhra Pradesh for professional education, Sasi stands with highest success rate not only in academic lines but also in placements.
+    </p><hr>
+    <p>
+        <b>vision:</b><br>
+        <p>Confect as a premier institute for professional education by creating technocrats who can address the society`s needs through inventions and innovations.</p><br>
+        <b>Mission:</b><br>
+        <p>Partake in the national growth of technological, industrial arena with societal responsibilities.
+         Provide an environment that promotes productive research. Meet stakeholders expectations through continued and sustained quality improvements.</p><br>
+        <b>Quality policy:</b><br>
+        <p>asi Institute of Technology and Engineering is committed to achieve global standards and excellence in teaching, 
+        research and consultancy by creating conductive environment 
+        in the fields of technological, management studies with professionalism and global outlook ensuring continuos improvement.</p><hr>
+    </p>
+    <p>What began as a small school in with a 9 students in a small village in West Godavari has created a sensation in the field of education 
+    by winning national and state awards as well as ranks in JEE-IIT and EAMCET. The very name Sasi instills confidence in the minds of many anxious parents 
+    aspiring students in and around the Coastal Districts of Andhra Pradesh with its strong roots in West and East Godavari districts is imparting.
+    Sasi has created its own brand image for the values it follows. Sasi Educational Society with its strong roots in West and East Godavari districts is imparting quality education for over 38 years.
+     The total students strength of all the institutions run by the society is about 16000.<hr>
+
+    </p><p><b>College Rules:</b><br>
+        <ul>
+    <li>Every student has to maintain discipline in all respects.</li><br>
+    <li>minimum attendance of 75% is compulsory for attending the University Examinations. No one will be exempted from this rule.</li>
+    <br><li>Every student has to clear the fee dues before the due date without fail.Fee dues, if any incurred during the semester/year, should be cleared to get the Hall ticket for writing the Semester / year end Examinations.</li><br>
+    <li>Any damage done to the college property like furniture etc. will attract fine and punishment.</li><br>
+    <li>Every student should follow the dress code of the institution.<br></li>
+    <li>All the students should display the Identity Card properly.</li><br>
+     <li>No student will be allowed to enter the college without the Identity Card.</li><br>
+     <li>All the students should maintain punctuality and late comers will not be allowed to classes.</li><br>
+     <li>All the students should follow the Library rules and regulations.</li><br>
+     <li>Ragging is strictly banned and if any student found ragging others he/she will be punished severely according to the Law.If any student is found involved in ragging, any one or more of the following punishments will be imposed.</li><br>
+     <li>Every student has to sign on the undertaking for maintaining discipline and for avoiding ragging.</li>
+    <li>Use of mobile phones, smoking and commenting is totally banned in the college campus. The mobiles once seized will not be returned at all.</li></ul>
+
+    </p>
+    <script src="navbar.js"></script>
+</body>
+</html>
