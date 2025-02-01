@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sticky Navigation Bar</title>
+    <link rel="stylesheet" type="text/css" href="navbar.css">
+</head>
+<body>
+    <nav id="navbar">
+        <ul>
+            <li><a href="home.html"><ins>Home</ins></a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="departments.html"><ins>Departments</ins></a></li>
+            <li><a href="placements.html"><ins>Placements</ins></a></li> 
+        </ul>
+    </nav>
+    <h2><INS>Facilities:</INS></h2><br>
+    <h3>NSS:</h3><BR>
+        <P>
+            NSS Committee to make the students aware of social responsibilities and dignity of labour and make them self reliant.
+             The programme aims to inculcate social welfare in students, and to provide service to society without bias. NSS volunteers
+              work to ensure that everyone who is needy gets help to enhance their standard of living and lead a life of dignity.
+              In doing so, volunteers learn from people in villages how to lead a good life despite a scarcity of resources. 
+            it also provides help in natural and man-made disasters by providing food, clothing and first aid to the disaster victims
+        </P>
+        <h3>HOBBY CLUB:</h3><BR>
+        <P>SITE encourages the holistic development of the students by coordinating and promoting a variety of educational,
+        recreational, social, cultural and entertainment programs and services. These programs and services provide students with opportunities
+        to develop better insights into group process,
+        enhances creative thinking skills, leadership skills and nurture individual talents
+        </P>
+        <h3>PROJECT LABS:</h3><BR>
+        <P>
+            Every student in the department has to undergo projects in their 4 years.
+            In order to fulfill the project work and benefit of the student the department had setup fully Air-conditioned Projects
+             Lab with 60 advanced computers with Latest technical softwares like JDK, Android OS Simulator, My Sql, Oracle, DB2, Tivoli,
+              Lotus forms, uamp, .net, Websphere, Tomcat. All the computer terminals are LAN connected with high speed Internet 
+              connectivity for executing and documenting their project work .Our Systems are installed with Microsoft Application Virtualization software.
+              Every student is assigned with a unique user id the student can access his account from anywhere in the campus.
+        </P><hr>
+        <H2><INS>Library:</INS></H2><BR>
+        <h3>CENTRAL LIBRARY:</h3><BR>
+        <P>
+Vision
+The Library aims to be the best among all the engineering college libraries of Andhra Pradesh. Library intends to incorporate the latest technology and to adopt user friendly approach towards its users by offering comprehensive services in regard to the dissemination of Knowledge.
+Mission
+The Central Library serves as a resource center and aims to develop a comprehensive collection of documents by assimilating latest technology useful for both faculty and students of the Institute and provides an efficient dissemination of knowledge.
+        </P>
+        <h3>E-RESOURCES:</h3><BR>
+            <P>
+                e-Resources are the result of rapid development of internet facility in the libraries. It is most useful to the users of the library. The scholarly resources available by online can be browsed and searched in different ways and thereby saves the users time.Accesses to e-Resources (NPTL videos, e-Books and e-Journals) are available through subscription/purchase. Users can access more than 3000 scholarly resources covering different packages like IEEE-ASPP, ASME, ASCE, IET Complete Journals collection , N-List , NDL & DELNET resources etc.The Institute is Wi-Fi enabled campus and with 20 Mbps internet connectivity. The library is providing full time internet connectivity for its users.More than Hundred computer systems are installed in the library and connected to the internet and intranet.
+                NPTEL eLearning
+                NPTEL (National Programme on Technology Enhanced Learning) provides E-learning through online Video and Web courses in Engineering, Sciences and humanities streams.The objective is to enhance the learning component and to reduce the tedious and mechanical aspects of some of the current learning methods. Access to Local NPTEL Video Streaming Server (Works only in Intranet).
+            </P><hr>
+    <H2><INS>Hostel:</INS></H2><br>
+    <p> 
+    SITE has separate hostel facility for boys and girls. The hostel is located in the college premises itself. 
+    The mess is spacious with a dining hall and kitchen. Separate seating arrangements are made for both boys and girls.
+     Full time resident wardens are available to take care of hostellers and to maintain the discipline. A standby power generator is
+      available with full time attendant in the hostel to operate during power failures.Life in hostel campus helps the students not 
+      only to study but also to socialize. SASI provides a comfortable and safe accommodation to all its students. The students
+       accommodated in the campus are encouraged to use the gymnasium, playground and all indoor gaming facilities.
+        The hostel, in addition, has a general store for provisions required by the students. Study hours will be conducted 
+        exclusively to the hostellers after college hours to improve their academic performance.
+    </p><hr>
+    <script src="navbar.js"></script>
+</body>
+</html>
