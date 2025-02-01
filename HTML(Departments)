@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sticky Navigation Bar</title>
+    <link rel="stylesheet" type="text/css" href="navbar.css">
+</head>
+<body>
+    <nav id="navbar">
+        <ul>
+            <li><a href="home.html"><ins>Home</ins></a></li>
+            <li><a href="about.html"><ins>About</ins></a></li>
+            <li><a href="departments.html">Departments</a></li>
+            <li><a href="placements.html"><ins>Placements</ins></a></li> 
+        </ul>
+    </nav>
+    <h2><center><ins>Departments</ins></center></h2><br>
+    <h4><i>Electronics & Communication Engineering</i></h4><br>
+    <p>The department of Electronics and Communication Engineering was inaugurated in the year 2002,with in-take of 60 seats and in the year 2007 the no of seats extended to 180. M.Tech course introduced in the year 2008 with 18 seats in VLSI and Embedded Systems, in the year 2009 new M.Tech course Communication Engg & Signal Processing included in the department with 18 seats.The Electronics and communication engineering programme is recognized by All India Council for Technical Education (AICTE)-New Delhi, a statutory body of Government of India and approved 
+        by Jawaharlal Nehru Technical University,Kakinada.Ours is a ragging free department</p>
+        <hr><h2><i>Computer Science & Technology</i></h2><br>
+        <p>
+            The Department of Computer Science and Engineering was established in the year 2002 with an intake of 60.
+             The Department has grown in strong over the years in terms of infrastructure facilities, experienced and dedicated team of faculty strength, technical expertise, 
+             modern teaching aids, browsing facilities etc.The department has currently an intake of 120 students. It has centralized computer center and well-equipped air-conditioned laboratories with state-of-the art computing facilities, equipped with more than 200 latest Systems along with updated versions of latest software and hardware.
+             The department also has 20 Mbps Leased Line Internet connectivity for the benefit of the students.
+        </p><hr>
+    
+    <h2><i>Electronics & Communication Engineering</i></h2><br>
+    <p>
+        Electrical and Electronics Engineering is a continuously evolving subject. As technology has advanced, 
+        so have the challenges facing the modern engineer. A silicon chip containing over 100 million transistors in an area no larger than a postage stamp is yesterday's news.EEE is a subject that naturally partners with other disciplines to open whole new engineering avenues. Examples include Mechatronics - with Mechanical Engineering, Bio-medical Sciences-with Medicine and Avionics-with Aeronautics. The EEE Department at Sasi Institute of Technology & Engineering prepares students in this field using new-age information and computer-intensive technologies.On employability, graduates of the college consistently appear as the first choice of employers. Studying EEE will lead to potential careers in the areas of Research & Development (R&D), design, systems analysis, installation and commissioning, process engineering, control and maintenance, manufacturing, quality assurance and testing, information technology, programming, consultancy, management and software engineering.The Master of Technology (M.Tech) program is a two-year program designed for students interested in careers in engineering practices or technical management. Many distinguished alumni of our graduate students occupy leadership positions in industry, academia, business, finance, and government.Our graduate education and research missions are supported by vibrant collaborations with the other departments
+         in the SITE college of Engineering and Applied Science and with the math and science departments.
+    </p><hr>
+    <h2><i>Mechanical Engineering</i></h2><br>
+    <p>
+        Mechanical Engineering is the mother of all the Engineering disciplines.
+         Mechanical Engineers can work in a wide range of industries: Aerospace, Automobile, Civil, Electronics, 
+         Manufacturing and Process Industries. The demand for Mechanical Engineers has been high and relatively stable,
+          because it is less affected by recession in any single industry. Mechanical Engineers also find many employment
+           opportunities in other areas of engineering where their key skills play important roles. Transferable skills such as 
+           simulation, problem solving, design, management and modelling, enable a significant proportion of graduates to follow
+            alternative careers in high level technology. The department of Mechanical Engineering is established in the year 2002.The course curriculum prepares the students to meet the challenges of tomorrow. The course is backed by state-of-the-art laboratories and facilities. The students are introduced to a wide choice of materials, selection criteria and the design of machines and mechanisms, computer systems and packages like AutoCAD, ANSYS, Solid Works and MAT Lab softwares. Besides this, more attention is paid in training the students to operate the machines and systems independently by a team of highly qualified faculty who are specialized in thermal, design, production and industrial engineering.
+    </p><hr>
+    <h2><i>Computer Science & Engineering</i></h2><br>
+    <p>
+        The Department of Computer Science and Engineering was established in the year 2002 with an intake of 60.
+         The Department has grown in strong over the years in terms of infrastructure facilities, experienced and dedicated team of faculty strength, technical expertise, 
+         modern teaching aids, browsing facilities etc.The department has currently an intake of 120 students. It has centralized computer center and well-equipped air-conditioned laboratories with state-of-the art computing facilities, equipped with more than 200 latest Systems along with updated versions of latest software and hardware.
+         The department also has 20 Mbps Leased Line Internet connectivity for the benefit of the students.
+    </p><hr>
+    <h2><i>Information Technology</i></h2><br>
+    <p>
+        The Department of Information Technology was established in the year 2006 with an intake of 60. The Department has grown in strong over the years in terms of infrastructure facilities, experienced and dedicated team of faculty strength, technical expertise, modern teaching aids, browsing facilities etc.It has centralized computer center and well-equipped air-conditioned laboratories with state-of-the art computing facilities, equipped with more than 100 latest Systems along with updated versions of latest software and hardware. 
+        The department also has 20 Mbps Leased Line Internet connectivity for the benefit of the students.
+    </p>
