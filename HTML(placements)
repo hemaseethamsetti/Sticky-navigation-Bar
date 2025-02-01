@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sticky Navigation Bar</title>
+    <link rel="stylesheet" type="text/css" href="navbar.css">
+</head>
+<body>
+    <nav id="navbar">
+        <ul>
+            <li><a href="home.html"><ins>Home</ins></a></li>
+            <li><a href="about.html"><ins>About</ins></a></li>
+            <li><a href="departments.html"><ins>Departments</ins></a></li>
+            <li><a href="placements.html">Placements</a></li> 
+        </ul>
+    </nav>
+<center><h2><ins>PLACEMENTS</ins></h2></center>
+<H3>PLACEMENT CELL:</H3><BR>
+    <P>The true measure of effectiveness of any such employability enhancement program lies in the acceptance of its students by the
+     industry. SASI has an unmatched track record in helping young Engineers find their dream careers. In fact, SASI has been rated
+      as the first choice of employers for recruitment by Dataquest.SASI Institute of Technology & Engineering has been a consistent
+       topper for several years in the list of campus placement records. It is proud that our students are highly rated by employers 
+       from industry and commerce in the private and public sectors. Offering information, advice, guidance and support for job-seeking
+        students is considered a primary responsibility at the College. The Placement and Training Cell is provided with 
+        a well-equipped conference Seminar rooms and separate, well-furnished rooms for interviews and counseling.
+    </P>
+    <H3>CAREER GUIDANCE AND COUNSELLING:</H3><BR>
+    <P>Guidance is needed at every stage of development right from the beginning of life till the end. Everyone needs 
+    guidance at one time or the other. If properly guided, every individual will be satisfied in life. At present, Guidance has
+     taken an unprecedented lead over all the other helping professions, for it empowers an individual to charter his life successfully,
+      inspite of all odds.Right Guidance Leads to Bright CareerA career should be fulfilling, satisfactory and well paying. It should 
+      put the unique skills and talents of a person to good use in his or her profession. If a person cannot use his skills or talents 
+      in his profession, then it leaves the person frustrated and dissatisfied with the profession and often leads to other problems.
+      We, at Career Lab, can show you the right careers for you. Specially designed career tests can now reveal a lot about you - your
+       unique skills, talents, competencies etc. These career tests can now show you the path to the right careers for you. Careers that
+        will utilize your unique skills and talents.We also have a unique video programme where we show you real life people in their 
+        own professions doing their work. This will give you an idea of how it is to work in the profession which you choose, what a 
+        typical day is like in that job, what skills do you require to do that job and many other things.We also have printed materials
+         about the various courses and job and work profiles, where you will find details about the work profiles in different career 
+         fields, the qualifications required, the skills needed to pursue that career and the courses and educational qualifications
+          that are needed.And above all we have a personal session with the students and the parents in which we tell the students
+           about their unique skills and profiles and what career should they pursue based on the career tests they have given.
+            This is a one-to-one interaction with the students and their parents, advising them on taking certain careers which match
+             the students profile, and why should they pursue them.
+    </P>
+    <H2>The main goals are:</H2><br>
+    <p>
+        <i>Exploring-self: </i>The basic aim is to help an individual increase his understanding and acceptance of self;
+        his physical development, his intelligence, aptitudes, interest, personality traits, attitudes and values, his
+         achievements in scholastic and other spheres, his aspirations and life-style preferences and above all his here -and-now
+          needs which keep him highly motivated to behave positively or otherwise.
+    </p>
+    <p>
+        <i>Determining Values: </i> The second aim is to help an individual recognize the importance of values, 
+        explore different sets of values, determine personal values and examine them in relation to the norms of society 
+        and their importance in planning for success in life.
+    </p>
+    <p>
+        <i>Setting Goals: </i>This aim is to help an individual set goal for him self and relate these to the values determined by
+         him so that he recognizes the importance of long-range planning.
+    </p>
+    <p>
+        <i>Explore the World of Work: </i> The aim here is to help the individual explore the World of Work in relation 
+        to his self-exploration, his value system and goals that he has set for himself to achieve success in life.
+    </p>
+    <p>
+        <i>Improving Efficiency: </i>The individual is helped to learn about factors which contribute to increase effectiveness
+         and efficiency and to improve his study habits
+    </p>
+    <p>
+        <i>Building Relationship: </i>The aim is to help the individual to be aware of his relationship with others
+         and to note that it is a reflection of his own feelings about himself.
+    </p>
+    <p>
+        <i>Accepting responsibility for the future: </i>The individual is helped to develop skill in social and personal 
+        forecasting, acquire attitudes and skills necessary for mastering the future.
+    </p>
+    <script src="navbar.js"></script>
+</body>
+</html>
